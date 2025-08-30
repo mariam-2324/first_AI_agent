@@ -106,13 +106,13 @@ print(response)
 In the dance of code and cognition, this script weaves a bridge between worlds: From the poetic curves of Urdu script to the straightforward grace of simple English. Like a digital linguist awakening under the stars of Gemini's intelligence, it loads secrets from hidden realms, crafts an agent of translation, and breathes life into words across languages. With each line, it reminds us that technology, at its heart, is a harmonious translator of human expression—turning challenges into strength, one API call at a time. ✨
 It's my first ever AI project, that created by Google AI Studio using Google Gemini API Key.
 ## Receiving the API Key from Google AI Studio:⛳
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/c73cedd5-d23b-4232-bfe9-b6ca407d7f6a" />
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/c73cedd5-d23b-4232-bfe9-b6ca407d7f6a" />
 
 ## Here's the code snippet that successfully runs the script file & responds to the input.💡
-<img width="960" alt="1-agent" src="https://github.com/user-attachments/assets/93ff5a37-acc4-4f88-a9cf-7bec6f766417" />
+<img width="560" alt="1-agent" src="https://github.com/user-attachments/assets/93ff5a37-acc4-4f88-a9cf-7bec6f766417" />
 
 
-## Deployment on the Huggingface Spaces 🤗
+# Deployment on the Huggingface Spaces 🤗
 
 This project is a web-based Urdu to English translator deployed on Hugging Face Spaces. It uses Google's Gemini API to translate Urdu text into simple English through an interactive Gradio interface.
 Setup Instructions
@@ -136,15 +136,15 @@ Usage: Enter Urdu text in the input box, and the app will display the translated
 * `README.md`: This file.
 
 
-#### Image Here ⏬
+### Running Project on Huggingface ⏬
 ![Huggingface](runningHugAGENT.png)
 
-#### Backwards ◀️
-![Huggingface]()
+### Working Project on the Huggingface ◀️
+![Huggingface](huggingface.translatorAGENT.png)
 
 
 ### Link of the Deployment on HuggingFace🤗
-![HuggingFace Spaces](https://huggingface.co/spaces/duroodia/Urdu-TranslatorAGENT)
+[HuggingFace Spaces](https://huggingface.co/spaces/duroodia/Urdu-TranslatorAGENT)
 
 ### I have just posted on my LinkedIn profile, but if anyone want to get the reference, then here's the post's link as well. Please check it out.📃
 https://www.linkedin.com/posts/mariam-saad-b8645335b_github-mariam-2324firstaiagent-its-activity-7340078419835088898-oH_U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmWz9YBrV8xis_j6-imtDqR4hnDZpvqQtw
