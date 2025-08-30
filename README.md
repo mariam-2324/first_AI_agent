@@ -136,8 +136,12 @@ Usage: Enter Urdu text in the input box, and the app will display the translated
 * `README.md`: This file.
 
 
-Image Here ⏬
-![Huggingface](  )
+#### Image Here ⏬
+![Huggingface](runningHugAGENT.png)
+
+#### Backwards ◀️
+![Huggingface]()
+
 
 ### Link of the Deployment on HuggingFace🤗
 ![HuggingFace Spaces](https://huggingface.co/spaces/duroodia/Urdu-TranslatorAGENT)
